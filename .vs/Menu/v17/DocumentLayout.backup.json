@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adina\\Desktop\\code\\Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07DB63E-E80A-4E39-A218-0286A38649B4}|Menu.csproj|c:\\users\\adina\\desktop\\code\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07DB63E-E80A-4E39-A218-0286A38649B4}|Menu.csproj|solutionrelative:data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Data\\MenuContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:21:47.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
